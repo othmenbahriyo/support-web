@@ -1,0 +1,6 @@
+<svg width="375" height="812" viewBox="0 0 375 812" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <pattern id="pattern" x="0" y="0" width="25" height="25" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1" fill="#1A5B92" fill-opacity="0.05"/>
+  </pattern>
+  <rect width="375" height="812" fill="url(#pattern)"/>
+</svg>

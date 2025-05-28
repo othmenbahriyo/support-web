@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="12" cy="12" r="10"></circle>
+  <polyline points="12 6 12 12 16 14"></polyline>
+  <path d="M12 22V21"></path>
+  <path d="M16.24 20.11l-.7-.7"></path>
+  <path d="M19.07 16.95l-.99-.14"></path>
+  <path d="M19.07 7.05l-.99.14"></path>
+  <path d="M16.24 3.89l-.7.7"></path>
+  <path d="M12 2v1"></path>
+  <path d="M7.76 3.89l.7.7"></path>
+  <path d="M4.93 7.05l.99.14"></path>
+  <path d="M4.93 16.95l.99-.14"></path>
+  <path d="M7.76 20.11l.7-.7"></path>
+</svg>

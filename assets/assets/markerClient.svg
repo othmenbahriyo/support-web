@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 64">
+    <!-- Pin shape -->
+    <path d="M24 0C14.075 0 6 8.075 6 18c0 7.59 3.798 14.005 9.284 20.015C20.77 44.529 24 52 24 52s3.23-7.471 8.716-13.985C38.202 32.005 42 25.59 42 18 42 8.075 33.925 0 24 0z" fill="#8A2BE2" stroke="#000000" stroke-width="1.5"/>
+
+    <!-- Inner circle -->
+    <circle cx="24" cy="18" r="12" fill="white" stroke="#000000" stroke-width="1"/>
+
+    <!-- Person silhouette -->
+    <circle cx="24" cy="14" r="4.5" fill="#8A2BE2"/>
+    <path d="M15 26c0-5 4-8 9-8s9 3 9 8" fill="#8A2BE2"/>
+</svg>
